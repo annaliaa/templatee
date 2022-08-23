@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bloco{
+    display: block;
+    float: left;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(68, 6, 6);
+}
+header button{
+    margin-bottom: 20px;
+    padding: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    border-radius: 6px;
+    border-color: rgb(99, 14, 14);
+    color: white;
+    background-color:  rgb(129, 27, 27);
+}
+main{
+    width: 70%;
+    height: 800px;
+    background-color: rgb(175, 34, 34);
+}
+main img{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+p{
+    color: white;
+}
+main h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin-left: 0px;
+    font-size: 25px;
+    margin-top: 10px;
+}
+main img{
+    margin-top: -100px;
+}
+main h3{
+    text-align: left;
+    margin-left: 450px
+}
+main p{
+    text-align: left;
+    margin-left: 450px;
+}
+main h1, h3, p{
+    color: white;
+}
+main section{
+    height: 300px;
+}
+main section:first-child{
+    width: 90%;
+    padding: 5%;
+    background-color: brown;
+}
+main section{
+    width: 40%;
+    padding: 5%;
+    background-color: rgb(179, 64, 64);
+}
+#amigos{
+    margin-left: 20px;
+}
+#amigos h3{
+    margin-left: 20px;
+}
+#amigos p{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 100px;
+}
+#habitat{
+    margin-left: -450px;
+}
+#habitat p{
+    margin-top: 20px;
+    margin-right: 150px;
+}
+.fotos{
+    margin-top: 10px;
+}
+aside{
+    width: 30%;
+    height: 800px;
+    background-color: rgb(156, 49, 49);
+}
+aside li{
+    margin-top: 10px;
+    color: white;
+}
+.lista{
+    margin-left: 50px;
+}
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(68, 6, 6);
+}
+#carouselExampleSlidesOnly{
+    margin-left: 50px;
+    margin-top: 75px;
+}
+aside h3{
+    margin-top: 30px;
+    margin-left: 0px;
+}
